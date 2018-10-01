@@ -1,19 +1,19 @@
 {
-  "name": "react-chartjs-2-fc",
-  "version": "2.7.5",
-  "description": "react-chartjs-2-fc",
+  "name": "react-chartjs-2",
+  "version": "2.7.4",
+  "description": "react-chartjs-2",
   "main": "lib/index.js",
   "module": "es/index.js",
   "jsnext:main": "es/index.js",
-  "author": "Tommaso Pifferi",
-  "homepage": "https://github.com/neslinesli93/react-chartjs-2",
-  "license" : "MIT" ,
+  "author": "Jeremy Ayerst",
+  "homepage": "https://github.com/jerairrest/react-chartjs-2",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/neslinesli93/react-chartjs-2.git"
+    "url": "https://github.com/jerairrest/react-chartjs-2.git"
   },
   "bugs": {
-    "url": "https://github.com/neslinesli93/react-chartjs-2/issues"
+    "url": "https://github.com/jerairrest/react-chartjs-2/issues"
   },
   "dependencies": {
     "lodash": "^4.17.4",
